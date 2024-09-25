@@ -1,7 +1,11 @@
 # Hi there 👋
 
 
-Being a part of the Bangkit Academy cohort, I am developing my skills in mobile development using Kotlin and Android Jetpack, as well as learning about UI/UX design, soft skills, and English. I am also working on a capstone project with a team of six members from different learning paths, such as cloud computing and machine learning, to create a real-world application that solves a problem. I am grateful for this opportunity to learn from the best mentors and instructors from Google, Tokopedia, Gojek, and Traveloka, and to earn a certification from them. 
+I'm a Year End Computer Science student who are passionate about Software Development and Data Science currently working as a Frontend Engineer at Springkraf. 
+
+I am passionate about collaboration, accuracy and teamwork, values that have been fundamental throughout my academic and professional journey. I'm steadfast in my resolve to keep up with the latest developments in technology and industry trends. I firmly believe in continuous learning to refine my skills and knowledge.
+
+Let's connect and explore more opportunities for collaboration and growth
 
 Feel free to connect me on [LinkedIn](https://www.linkedin.com/in/felix-winston-35b171208/)
 
